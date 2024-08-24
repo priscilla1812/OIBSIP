@@ -19,4 +19,4 @@ Sales prediction means predicting how much of a product people will buy based on
 Sales prediction based on advertising expenditure features such as TV, newspaper, and radio.
 
 Done by Priscilla Philby Oommen
-(BSc. Computer Science 3rd year student)
+[BSc (Hons) Computer Science graduate]
